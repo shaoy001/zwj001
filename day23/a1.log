@@ -1,0 +1,7 @@
+[2020-10-25 13:45:40,922][MainThread:8352][task_id:kkk][日志和re模块.py:28][INFO][这是一条info日志]
+[2020-10-25 13:46:46,292][MainThread:8224][task_id:kkk][日志和re模块.py:28][INFO][这是一条info日志]
+[2020-10-25 13:47:57,550][MainThread:5132][task_id:kkk][日志和re模块.py:28][INFO][这是一条info日志]
+[2020-10-25 14:05:57,268][MainThread:2136][日志名字:kkk][日志和re模块.py:28][INFO][这是一条info日志]
+[2020-10-25 14:06:05,612][MainThread:4856][日志名字:kkk][日志和re模块.py:28][INFO][这是一条info日志]
+[2020-10-25 14:06:43,885][MainThread:8376][日志名字:kkk][日志和re模块.py:28][INFO][这是一条info日志]
+[2020-10-25 14:06:43,885][MainThread:8376][日志名字:asdsa][日志和re模块.py:32][INFO][这是logger3产生的日志]

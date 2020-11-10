@@ -1,0 +1,20 @@
+2020-10-25 13:00:13 PM - root - DEBUG -日志和re模块:  调试debug
+2020-10-25 13:00:13 PM - root - INFO -日志和re模块:  消息info
+2020-10-25 13:00:13 PM - root - WARNING -日志和re模块:  警告warn
+2020-10-25 13:00:13 PM - root - ERROR -日志和re模块:  错误error
+2020-10-25 13:00:13 PM - root - CRITICAL -日志和re模块:  严重critical
+2020-10-25 13:04:47,513 - root - DEBUG -日志和re模块:  调试debug
+2020-10-25 13:04:47,513 - root - INFO -日志和re模块:  消息info
+2020-10-25 13:04:47,514 - root - WARNING -日志和re模块:  警告warn
+2020-10-25 13:04:47,514 - root - ERROR -日志和re模块:  错误error
+2020-10-25 13:04:47,514 - root - CRITICAL -日志和re模块:  严重critical
+2020-10-25 13:05:05 PM - root - DEBUG -日志和re模块:  调试debug
+2020-10-25 13:05:05 PM - root - INFO -日志和re模块:  消息info
+2020-10-25 13:05:05 PM - root - WARNING -日志和re模块:  警告warn
+2020-10-25 13:05:05 PM - root - ERROR -日志和re模块:  错误error
+2020-10-25 13:05:05 PM - root - CRITICAL -日志和re模块:  严重critical
+2020-10-25 13:13:05 PM - root - DEBUG -日志和re模块:  调试debug
+2020-10-25 13:13:05 PM - root - INFO -日志和re模块:  消息info
+2020-10-25 13:13:05 PM - root - WARNING -日志和re模块:  警告warn
+2020-10-25 13:13:05 PM - root - ERROR -日志和re模块:  错误error
+2020-10-25 13:13:05 PM - root - CRITICAL -日志和re模块:  严重critical
